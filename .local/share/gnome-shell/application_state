@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox.desktop" score="152" last-seen="1699304168"/>
+    <application id="org.gnome.Shell.PortalHelper.desktop" score="17" last-seen="1699302129"/>
+    <application id="org.gnome.gedit.desktop" score="26" last-seen="1699304165"/>
+    <application id="gnome-initial-setup.desktop" score="2" last-seen="1699301573"/>
+    <application id="org.gnome.Terminal.desktop" score="160" last-seen="1699304034"/>
+    <application id="update-manager.desktop" score="0" last-seen="1699301808"/>
+  </context>
+</application-state>
